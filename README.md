@@ -76,7 +76,7 @@ ___
 
 ## Settings
 
-[Migrations](https://docs.djangoproject.com/en/4.2/topics/migrations/) - - is Django's way of propagating changes you make to your models (adding a field, removing a model, etc.) to the database schema.
+[Migrations](https://docs.djangoproject.com/en/4.2/topics/migrations/) - is Django's way of propagating changes you make to your models (adding a field, removing a model, etc.) to the database schema.
 
 1. Create new migrations based on the changes you made to your models
 
