@@ -28,7 +28,7 @@ ___
 2. Go to the repository directory
 
     ```shell
-    cd RKSP
+    cd libraio
     ```
 
 3. Create and activate a virtual environment
